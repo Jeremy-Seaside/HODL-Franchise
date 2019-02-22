@@ -79,12 +79,14 @@ A HODL Concept offers several products and services to its local market:
 
 ● LIGHTNING CLUSTERS
 
-Lightning Clusters are Massively Multi-Signature Factories  based on Schnorr Signature Aggregation and the Channel Factories 
+Lightning Clusters are Massively Multi-Signature Factories based on Schnorr Signature Aggregation and the Channel Factories 
 spec described in detail by Burchurt, Decker, and Wattenhofer in their paper entitled 'Scalable Funding of Bitcoin Micropayment 
-Channel Networks'.
+Channel Networks'. They are one-to-one maps of a given localized economy.
 
-They provide 'liquidity-as-a-service' and are created and managed by HODL Technicians. Fees may be charged to new merchants 
-when they gain control of a node within the cluster, or as payments are channeled through the cluster.
+They provide 'capacity-as-a-service' and are created and managed by HODL Technicians, who identify meaningful economic activity 
+within their region and build a cluster of nodes which represent that activity, and then use that cluster of nodes to on-board 
+merchants, municipalities, and other organizations. Fees may be charged to new members when they are assigned a node within the 
+cluster, or as payments are channeled through the cluster.
 
 ● CONSUMER ELECTRONICS AND RELATED DEVICES
 
